@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @flowercodes
-- 👀 I’m interested in learning to code for data analytics purposes
-- 🌱 I’m currently learning SQL, Java, and Python
+- 👋 Hi, I’m @flowercodes! I am a Junior Software Developer for a Renewable Energy Company in Massachusetts.
+- 🌱 I am proficient in APEX, Integrations, and Automation. I have enough HTML and CSS experience to be dangerous. I am hoping to expand upon my Javascript skills next!
 - 💞️ I’m looking to collaborate on anything with the languages mentioned above! Practice makes perfect!
 - 📫 How to reach me ... brianpremo97@gmail.com
 
